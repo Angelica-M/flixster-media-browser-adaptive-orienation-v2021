@@ -1,7 +1,7 @@
 # Flixster 
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-## Learning Attainment & Objectives
+## Topics Demonstrated
 
 ### Media Orchestration & Hardware Integration
 * **hardware-video-orchestration** — Managed hardware-accelerated media renderers to decode and play back video layers natively.
