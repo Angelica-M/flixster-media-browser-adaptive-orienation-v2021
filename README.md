@@ -1,6 +1,39 @@
 # Flixster 
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+## Learning Attainment & Objectives
+
+### Media Orchestration & Hardware Integration
+* **hardware-video-orchestration** — Managed hardware-accelerated media renderers to decode and play back video layers natively.
+* **third-party-sdk-integration** — Programmatically embedded, configured, and lifecycle-managed the external YouTube API player runtime.
+* **full-screen-rendering** — Overrode standard OS window layouts to maximize visual component frames across the entire physical display.
+* **asynchronous-image-loading** — Threaded network stream downloads for image assets to prevent blocking the UI layout thread.
+
+### Responsive Engineering & Context Transitions
+* **responsive-ui-engineering** — Coded adaptive user interface layouts that dynamically adjusted spacing and components based on screen geometries.
+* **layout-orientation-adaptation** — Constructed distinct portrait/landscape XML resource pathways to automatically rearrange component structures upon rotation.
+* **conditional-rendering** — Swapped core image view nodes (Poster vs. Backdrop) dynamically based on the current physical aspect ratio state.
+* **intent-pipeline-engineering** — Serialized and passed structured movie data payloads across isolated Android Activity component boundaries.
+
+### Data Engineering & External API Consumption
+* **rest-api-consumption** — Formulated, transmitted, and parsed HTTP network payloads from The Movie Database web services.
+* **json-deserialization** — Converted incoming text-based web API responses into structured local data object matrices.
+* **data-binding** — Directly mapped parsed object vectors to front-end UI view containers (TextView, RatingBar, ImageView).
+* **dynamic-component-injection** — Programmatically inflated and drew numerical rating parameters directly into specialized graphic indicator nodes.
+
+### Software Engineering & Structural Patterns
+* **multi-view-architecture** — Segregated core user interactions across discrete screen boundaries (Listing Feed vs. Detailed Overview Screen).
+* **view-recycling-mechanics** — Leveraged dynamic adapter architectures to efficiently handle, re-use, and render rows within memory bounds.
+* **decoupled-architecture** — Separated client presentation layers entirely from the underlying asset provider web server.
+* **systems-validation** — Tested structural layout transitions to ensure no state degradation occurred during configuration modifications.
+
+### Computing Foundations & Interface Layouts
+* **state-transition-governance** — Managed the exact lifecycles of parent and child views to prevent data loss during backward screen navigation.
+* **mobile-architecture** — Managed activity contexts, layout lifecycle bounds, and component relationships inside a mobile OS environment.
+* **object-oriented-programming** — Used class inheritance structures and modular polymorphism to build out view elements.
+* **event-driven-programming** — Implemented local interface event listeners to trigger immediate screen transformations upon tactile item selections.
+
+
 ## Flix Part 2
 
 ### User Stories
